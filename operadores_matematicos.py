@@ -28,7 +28,7 @@ numero8 = int(input('Digite outro número para divisão: '))
 print(numero7 / numero8)
 
 
-# outras opcoes 
+# outras opcoes, com o mesmo numero
 
 a = int(input('Digite um número para realizarmos cálculos matemáticos: '))
 b = int(input('Digite outro número para realizarmos cálculos matemáticos: '))
