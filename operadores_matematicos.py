@@ -26,3 +26,14 @@ print(numero5 * numero6)
 numero7 = int(input('Digite um número para divisão: ' ))
 numero8 = int(input('Digite outro número para divisão: '))
 print(numero7 / numero8)
+
+
+# outras opcoes 
+
+a = int(input('Digite um número para realizarmos cálculos matemáticos: '))
+b = int(input('Digite outro número para realizarmos cálculos matemáticos: '))
+
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
