@@ -1,7 +1,6 @@
 #01-Variaveis-e-Tipos/: Descoberta dos tipos de dados (int, float, str, bool) e manipulação de variáveis.
 
 
-
 '''
 Entrada dados: 
 Criando variavel
@@ -19,3 +18,4 @@ print(f'Seja bem-vindo {nome}. É um prazer ter você aqui!!')
 
 idade = int(input('Digite sua idade: '))
 print(f'Você tem {idade} anos, certo?')
+
