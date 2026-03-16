@@ -1,3 +1,7 @@
+#01-Variaveis-e-Tipos/: Descoberta dos tipos de dados (int, float, str, bool) e manipulação de variáveis.
+
+
+
 '''
 Entrada dados: 
 Criando variavel

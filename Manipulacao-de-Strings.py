@@ -1,0 +1,1 @@
+#Manipulacao-de-Strings/: Limpeza de dados com .strip(), .replace() e formatação de textos.

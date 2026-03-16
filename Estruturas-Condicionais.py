@@ -1,3 +1,7 @@
+#03-Estruturas-Condicionais/: Uso de if, elif e else para tomada de decisão.
+
+
+
 #aprendendo a usar if e else. Projeto verificador de idade
 
 idade = int(input('Para tirar sua habilitação, digite sua idade para conferência: '))

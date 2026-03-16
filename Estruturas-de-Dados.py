@@ -1,0 +1,1 @@
+#04-Estruturas-de-Dados/: Primeiros passos com Tuplas, Listas e a função zip().
